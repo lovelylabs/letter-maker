@@ -1,0 +1,16 @@
+{
+    "name": "berry",
+    "version": "1.0.0",
+    "description": "Make documents",
+    "main": "index.js",
+    "author": "Alexander Guerra <alex@lovelylabs.io>",
+    "license": "MIT",
+    "scripts": {
+        "mark": "node index.js",
+        "compile": "handlebars templates/example.handlebars -f ./output/test.js"
+    },
+    "dependencies": {
+        "handlebars": "^4.7.6",
+        "markdown-it": "^11.0.1"
+    }
+}

@@ -1,0 +1,8 @@
+<p>This is a string...
+I want it it to make some kind of markdown thing...</p>
+<h2>Title</h2>
+<p>This is the title of the page.</p>
+<ol>
+<li>SMile</li>
+<li>Be helpful</li>
+</ol>
